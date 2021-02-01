@@ -1,0 +1,7 @@
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\bin\Debug\Heranças.exe.config
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\bin\Debug\Heranças.exe
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\bin\Debug\Heranças.pdb
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\obj\Debug\Heranças.csprojAssemblyReference.cache
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\obj\Debug\Heranças.csproj.CoreCompileInputs.cache
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\obj\Debug\Heranças.exe
+E:\projetos visual studio\Primeira lista sobre heranças\Heranças\obj\Debug\Heranças.pdb
